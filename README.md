@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/maahi1219/Leetcode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/maahi1219/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
