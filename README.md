@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/maahi1219/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/maahi1219/Leetcode/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahi1219/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
