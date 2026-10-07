@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/maahi1219/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
