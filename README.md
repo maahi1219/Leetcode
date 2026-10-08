@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/maahi1219/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/maahi1219/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maahi1219/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
