@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/maahi1219/Leetcode/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/maahi1219/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/maahi1219/Leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/maahi1219/Leetcode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/maahi1219/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahi1219/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -40,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/maahi1219/Leetcode/tree/master/0197-rising-temperature) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/maahi1219/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/maahi1219/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
