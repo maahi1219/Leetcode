@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/maahi1219/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
 | [2942-find-words-containing-character](https://github.com/maahi1219/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Database
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/maahi1219/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/maahi1219/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/maahi1219/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
