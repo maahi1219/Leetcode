@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/maahi1219/Leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/maahi1219/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maahi1219/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/maahi1219/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/maahi1219/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/maahi1219/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/maahi1219/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/maahi1219/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Database
 |  |
