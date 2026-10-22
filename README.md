@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/maahi1219/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/maahi1219/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/maahi1219/Leetcode/tree/master/0577-employee-bonus) |
 ## Queue
