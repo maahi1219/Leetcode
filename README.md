@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/maahi1219/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/maahi1219/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/maahi1219/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/maahi1219/Leetcode/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/maahi1219/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2652-sum-multiples](https://github.com/maahi1219/Leetcode/tree/master/2652-sum-multiples) |
 ## Hash Table
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/maahi1219/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/maahi1219/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/maahi1219/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
